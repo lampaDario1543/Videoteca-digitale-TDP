@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videoteca>
+    <series>
+        <serie id="ser-1">
+            <titolo>Breaking Bad</titolo>
+            <genere>Drammatico</genere>
+            <stagione numero="1">
+                <episodio>
+                    <numero>1</numero>
+                    <titolo>Questione di chimica</titolo>
+                    <durata unit="min">58</durata>
+                    <trama>Insegnante con cancro ai polmoni produce metanfetamine per famiglia.</trama>
+                </episodio>
+                <episodio>
+                    <numero>2</numero>
+                    <titolo>Senza ritorno</titolo>
+                    <durata unit="min">48</durata>
+                    <trama>Walter e Jesse cercano di eliminare le prove del loro coinvolgimento.</trama>
+                </episodio>
+                <episodio>
+                    <numero>3</numero>
+                    <titolo>Conseguenze radicali</titolo>
+                    <durata unit="min">48</durata>
+                    <trama>Skyler sospetta della doppia vita di Walt.</trama>
+                </episodio>
+            </stagione>
+            <anno>
+                <inizio>2008</inizio>
+                <fine>2013</fine>
+            </anno>
+            <regista>Vince Gilligan</regista>
+            <attori>
+                <attore sesso="M">Bryan Cranston</attore>
+                <attore sesso="M">Aaron Paul</attore>
+                <attore sesso="F">Anna Gunn</attore>
+                <attore sesso="M">Dean Norris</attore>
+            </attori>
+            <trama>
+                Walter White è un insegnante di chimica che, dopo essere stato diagnosticato un cancro ai polmoni, inizia a produrre e vendere metanfetamina.
+            </trama>
+            <costo>20</costo>
+        </serie>
+        <serie id="ser-2">
+            <titolo>The Big Bang Theory</titolo>
+            <genere>Commedia</genere>
+            <stagione numero="1">
+                <episodio>
+                    <numero>1</numero>
+                    <titolo>Pilota</titolo>
+                    <durata unit="min">22</durata>
+                    <trama>
+                        Leonard si innamora di Penny, la nuova vicina, mentre Sheldon disapprova.
+                    </trama>
+                </episodio>
+                <episodio>
+                    <numero>2</numero>
+                    <titolo>L'ipotesi del cervellone</titolo>
+                    <durata unit="min">20</durata>
+                    <trama>Leonard offre di ritirare un pacco per Penny, ma Sheldon pulisce l'appartamento di lei, causando complicazioni.
+                    </trama>
+                </episodio>
+                <episodio>
+                    <numero>3</numero>
+                    <titolo>Il corollario del gatto</titolo>
+                    <durata unit="min">20</durata>
+                    <trama>
+                        Leonard, distrutto dal bacio di Penny con un altro uomo, la invita a cena con gli amici.
+                    </trama>
+                </episodio>
+            </stagione>
+            <stagione numero="2">
+                <episodio>
+                    <numero>1</numero>
+                    <titolo>Il paradigma del pesce guasto</titolo>
+                    <durata unit="min">20</durata>
+                    <trama>Leonard e Penny si baciano, ma lei si rende conto che non è pronta per una relazione.</trama>
+                </episodio>
+                <episodio>
+                    <numero>2</numero>
+                    <titolo>La topologia del sospensorio</titolo>
+                    <durata unit="min">20</durata>
+                    <trama>
+                        Leonard si trova in conflitto mentre riprende la relazione con Leslie, collega di Sheldon e sua nemica.
+                    </trama>
+                </episodio>
+                <episodio>
+                    <numero>3</numero>
+                    <titolo>La sublimazione barbarica</titolo>
+                    <durata unit="min">20</durata>
+                    <trama>
+                        Penny rimane chiusa fuori, Sheldon la invita e introduce a un videogioco, sua ossessione.
+                    </trama>
+                </episodio>
+            </stagione>
+            <anno>
+                <inizio>2007</inizio>
+                <fine>2019</fine>
+            </anno>
+            <regista>Chuck Lorre</regista>
+            <attori>
+                <attore sesso="M">Johnny Galecki</attore>
+                <attore sesso="M">Jim Parsons</attore>
+                <attore sesso="F">Kaley Cuoco</attore>
+                <attore sesso="M">Simon Helberg</attore>
+            </attori>
+            <trama>
+                La serie racconta le vicende di quattro giovani scienziati, Leonard, Sheldon, Howard e Rajesh, e della loro vicina di casa, Penny.
+            </trama>
+            <costo>20</costo>
+        </serie>
+        <serie id="ser-3">
+            <titolo>How I Met Your Mother</titolo>
+            <genere>Commedia</genere>
+            <stagione numero="1">
+                <episodio>
+                    <numero>1</numero>
+                    <titolo>Una lunga storia</titolo>
+                    <durata unit="min">22</durata>
+                    <trama>Ted inizia a raccontare ai figli la storia di come ha conosciuto la loro madre.</trama>
+                </episodio>
+                <episodio>
+                    <numero>2</numero>
+                    <titolo>La giraffa viola</titolo>
+                    <durata unit="min">22</durata>
+                    <trama>Ted organizza una festa nella speranza di rivedere Robin.</trama>
+                </episodio>
+                <episodio>
+                    <numero>3</numero>
+                    <titolo>Il dolce sapore della libertà</titolo>
+                    <durata unit="min">22</durata>
+                    <trama>Barney e Ted vengono fermati dagli uomini della sicurezza in aeroporto.</trama>
+                </episodio>
+            </stagione>
+            <anno>
+                <inizio>2005</inizio>
+                <fine>2014</fine>
+            </anno>
+            <regista>Carter Bays</regista>
+            <attori>
+                <attore sesso="M">Josh Radnor</attore>
+                <attore sesso="M">Jason Segel</attore>
+                <attore sesso="F">Cobie Smulders</attore>
+                <attore sesso="M">Neil Patrick Harris</attore>
+                <attore sesso="F">Alyson Hannigan</attore>
+            </attori>
+            <trama>
+                La serie racconta le vicende di Ted Mosby, un architetto di New York, che nel 2030 racconta ai suoi figli come ha conosciuto la loro madre.
+            </trama>
+            <costo>20</costo>
+        </serie>
+        <serie id="ser-4">
+            <titolo>I Simpson</titolo>
+            <genere>Animazione</genere>
+            <stagione numero="1">
+                <episodio>
+                    <numero>1</numero>
+                    <titolo>Una vita al top</titolo>
+                    <durata unit="min">22</durata>
+                    <trama>La famiglia Simpson adotta un cane.</trama>
+                </episodio>
+                <episodio>
+                    <numero>2</numero>
+                    <titolo>Bart lo ha fatto</titolo>
+                    <durata unit="min">22</durata>
+                    <trama>Bart fa una copia di un test e la vende a Martin.</trama>
+                </episodio>
+                <episodio>
+                    <numero>3</numero>
+                    <titolo>La paura fa novanta</titolo>
+                    <durata unit="min">22</durata>
+                    <trama>La famiglia Simpson festeggia Halloween.</trama>
+                </episodio>
+            </stagione>
+            <stagione numero="2">
+                <episodio>
+                    <numero>1</numero>
+                    <titolo>Bart diventa famoso</titolo>
+                    <durata unit="min">22</durata>
+                    <trama>Bart diventa famoso dopo aver salvato la vita a un bambino caduto in un pozzo.</trama>
+                </episodio>
+                <episodio>
+                    <numero>2</numero>
+                    <titolo>Il capo piu' grande</titolo>
+                    <durata unit="min">22</durata>
+                    <trama>Homer diventa il capo della centrale nucleare.</trama>
+                </episodio>
+                <episodio>
+                    <numero>3</numero>
+                    <titolo>Il giacimento di Lisa</titolo>
+                    <durata unit="min">22</durata>
+                    <trama>Lisa scopre un giacimento di petrolio sotto la casa.</trama>
+                </episodio>
+            </stagione>
+            <anno>
+                <inizio>1989</inizio>
+                <fine>In corso</fine>
+            </anno>
+            <regista>Matt Groening</regista>
+            <attori>
+                <attore sesso="M">Dan Castellaneta</attore>
+                <attore sesso="F">Julie Kavner</attore>
+                <attore sesso="M">Nancy Cartwright</attore>
+                <attore sesso="M">Yeardley Smith</attore>
+            </attori>
+            <trama>
+                La serie racconta le vicende della famiglia Simpson, composta da Homer, Marge, Bart, Lisa e Maggie.
+            </trama>
+            <costo>20</costo>
+        </serie>
+    </series>
+    <movies>
+        <movie id="movie-1">
+            <titolo>Oppenheimer</titolo>
+            <durata unit="min">240</durata>
+            <genere>Biografico</genere>
+            <anno>2023</anno>
+            <regista>Christopher Nolan</regista>
+            <attori>
+                <attore sesso="M">Cillian Murphy</attore>
+                <attore sesso="M">Robert Downey Jr.</attore>
+                <attore sesso="F">Emily Blunt</attore>
+                <attore sesso="M">Matt Damon</attore>
+            </attori>
+            <trama>
+                La storia di J. Robert Oppenheimer, lo scienziato che ha diretto il progetto Manhattan, che ha portato alla creazione della bomba atomica.
+            </trama>
+            <costo>10</costo>
+        </movie>
+        <movie id="movie-2">
+            <titolo>Star Wars</titolo>
+            <durata unit="min">121</durata>
+            <genere>Fantascienza</genere>
+            <anno>1977</anno>
+            <regista>George Lucas</regista>
+            <attori>
+                <attore sesso="M">Mark Hamill</attore>
+                <attore sesso="M">Harrison Ford</attore>
+                <attore sesso="F">Carrie Fisher</attore>
+                <attore sesso="M">Peter Cushing</attore>
+            </attori>
+            <trama>
+                La storia di Luke Skywalker, un giovane contadino che si unisce alla ribellione per combattere l'Impero Galattico.
+            </trama>
+            <costo>10</costo>
+        </movie>
+        <movie id="movie-3">
+            <titolo>Harry Potter e la pietra filosofale</titolo>
+            <durata unit="min">152</durata>
+            <genere>Fantasy</genere>
+            <anno>2001</anno>
+            <regista>Chris Columbus</regista>
+            <attori>
+                <attore sesso="M">Daniel Radcliffe</attore>
+                <attore sesso="M">Rupert Grint</attore>
+                <attore sesso="F">Emma Watson</attore>
+                <attore sesso="M">Richard Harris</attore>
+            </attori>
+            <trama>
+                La storia di Harry Potter, un giovane mago che scopre di essere un mago e viene ammesso alla scuola di magia di Hogwarts.
+            </trama>
+            <costo>10</costo>
+        </movie>
+        <movie id="movie-4">
+            <titolo>Ritorno al futuro</titolo>
+            <durata unit="min">116</durata>
+            <genere>Fantascienza</genere>
+            <anno>1985</anno>
+            <regista>Robert Zemeckis</regista>
+            <attori>
+                <attore sesso="M">Michael J. Fox</attore>
+                <attore sesso="M">Christopher Lloyd</attore>
+                <attore sesso="F">Lea Thompson</attore>
+                <attore sesso="M">Crispin Glover</attore>
+            </attori>
+            <trama>
+                La storia di Marty McFly, un giovane che viaggia nel tempo con l'aiuto di un eccentrico scienziato.
+            </trama>
+            <costo>10</costo>
+        </movie>
+    </movies>
+</videoteca>

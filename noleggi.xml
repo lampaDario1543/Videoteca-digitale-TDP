@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<noleggi>
+    <cliente user="aaaa">
+        <saldo>20</saldo>
+    </cliente>
+    <cliente user="TMS-computer/192.168.56.1:12345">
+        <saldo>50</saldo>
+    </cliente>
+</noleggi>
