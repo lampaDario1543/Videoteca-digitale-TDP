@@ -1,5 +1,5 @@
 # Videoteca digitale (TDP):
-
+Progetto di tecnologie e progettazione di sistemi informatici e di telecomunicazioni dell'anno scolastico 2023/24 all'IS E. Fermi di Mantova
 ## Introduzione:
 
 Programma per la gestione digitale di una videoteca in cui sono presenti diverse tipoligie di risorse (film e serie TV), in cui un utente viene "registrato", e può ottenere le informazioni delle varie risorse, cercarle o noleggiarle.
